@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Yuri Sant
 
-- Cursando Análise e desenvolvimento de sistemas na estácio.💻
+- Cursando Análise e desenvolvimento de sistemas💻
 
 - Nos tempos em que não estou estudando matérias para a faculdade, gosto de estudar redes de Computadores, Segurança da Informação e programação full-stack.
 
